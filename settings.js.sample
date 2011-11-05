@@ -1,0 +1,11 @@
+module.exports = {
+  irc: {
+    host: 'host',
+	nick: 'nick',
+	opts: {
+	  port:     port,
+	  secure:   false,
+	  channels: ['#channel'],
+	}
+  }
+};
